@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Feb 2025 17:37:26 at https://www.centroesteticoeurmontagnola.it/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "it, en, *" https://www.centroesteticoeurmontagnola.it/ -O1 "C:\Mie pagine Web\Monica" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:37:44	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/images/logo_drgimo.png (from https://www.centroesteticoeurmontagnola.it/)
+17:37:44	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/js/script.js (from https://www.centroesteticoeurmontagnola.it/)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/trattamenti/epilazione-laser-diodo (from https://www.centroesteticoeurmontagnola.it/)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/trattamenti/tattoo-piercing (from https://www.centroesteticoeurmontagnola.it/)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/trattamenti/trucco-semipermanente (from https://www.centroesteticoeurmontagnola.it/)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/trattamenti/laser-diodo (from https://www.centroesteticoeurmontagnola.it/)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/trattamenti/nails (from https://www.centroesteticoeurmontagnola.it/)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/chi-siamo/images/icons/2.png (from https://www.centroesteticoeurmontagnola.it/chi-siamo/drgimo-montagnola)
+17:38:05	Error: 	"Not Found" (404) at link https://www.centroesteticoeurmontagnola.it/images/services/trattamenti_corpo_endermology_lpg.jpg (from https://www.centroesteticoeurmontagnola.it/promozioni)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 140 links scanned, 130 files written (19090184 bytes overall) [18489042 bytes received at 474078 bytes/sec], 1147191 bytes transferred using HTTP compression in 31 files, ratio 24%, 41.2 requests per connection
+(9 errors, 0 warnings, 0 messages)

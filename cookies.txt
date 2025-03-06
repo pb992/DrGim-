@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.centroesteticoeurmontagnola.it	TRUE	/	FALSE	1999999999	_csrf	WyOaC_a7OehrO36bZc21OkiB
+centroesteticoeurmontagnola.it	TRUE	/	FALSE	1999999999	dlb	s%3A-FVeZkat-li244pfaaEpQJXHvxfpjytg.aKBXHaxkTf%2FZCYojcgmjNtvK0qE9ai1U7c6N5mHK4X0
+www.centroesteticoeurmontagnola.it	TRUE	/	FALSE	1999999999	SameSite	Strict
+
